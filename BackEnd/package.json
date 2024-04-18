@@ -1,0 +1,12 @@
+{
+  "name": "neighborhood",
+  "version": "1.0.0",
+  "description": "Neghbirhood API express +mongo",
+  "main": "server.js",
+  "scripts": {
+    "test": "node",
+    "start": "node server.js"
+  },
+  "author": "Puru",
+  "license": "ISC"
+}
